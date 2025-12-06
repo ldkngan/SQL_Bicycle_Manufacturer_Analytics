@@ -123,7 +123,7 @@ ORDER BY 4 DESC;
 - Result
 <img width="636" height="106" alt="image" src="https://github.com/user-attachments/assets/02fd3364-64f6-4f0a-bc2e-ffff8eb8031b" />
 
-### 📌 Q3. Ranking Top 3 TeritoryID with biggest order quantity of every year.
+### 📌 Q3. Ranking Top 3 TerritoryID with biggest order quantity of every year.
 ```sql
 WITH cal_order_qty AS (
   SELECT
